@@ -49,10 +49,18 @@ Analyzed 3,900 customer purchase records to explore spending patterns, product p
 Apart from my featured projects, I have also worked on retail sales analysis and SQL case studies, including:
 
 * [Retail Sales Analysis](https://github.com/PriyaShrivastava25/Retail-Sales-Analysis.git) — MySQL
-* **Danny's Diner** — SQL
 * **Pizza Runner** — SQL
 * **SQL Murder Mystery** — SQL
 
 Explore my GitHub repositories for more projects and SQL practice.
+
+---
+
+## 📜 Certifications
+
+* Data Analytics Essentials — Cisco Networking Academy
+* Deloitte Australia Data Analytics Job Simulation — Forage
+
+
 
 
