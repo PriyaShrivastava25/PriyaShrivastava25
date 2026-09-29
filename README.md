@@ -61,6 +61,14 @@ Explore my GitHub repositories for more projects and SQL practice.
 * Data Analytics Essentials — Cisco Networking Academy
 * Deloitte Australia Data Analytics Job Simulation — Forage
 
+---
+
+## 🤝 Connect With Me
+
+* **LinkedIn:** [Priya Shrivastava](https://www.linkedin.com/in/priya-shrivastava-2502501ba)
+* **GitHub:** [PriyaShrivastava25](https://github.com/PriyaShrivastava25)
+
+
 
 
 
