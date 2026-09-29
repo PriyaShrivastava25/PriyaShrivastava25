@@ -16,28 +16,43 @@ MCA graduate with a strong foundation in data analytics. Skilled in SQL, Excel, 
 
 ---
 
-## 📊 Projects
+## 📊 Featured Projects
 
-### 1. Customer Analytics & RFM Segmentation
+### 1. Customer Segmentation & RFM Analysis
 
 **Tools:** MySQL, Power BI
 
-* Analyzed Olist customer data to evaluate purchasing behavior, customer value, and retention risk.
-* Built an RFM segmentation model using SQL to classify customers into seven segments.
-* Designed a three-page Power BI dashboard for customer segmentation and retention analysis.
+Analyzed 93,357 Olist customers using RFM analysis to explore customer segments and purchasing behavior. Developed an interactive Power BI dashboard to visualize customer insights.
 
-### 2. Employee Attrition Analysis Dashboard
+🔗 [View Project](https://github.com/PriyaShrivastava25/customer-analytics-rfm-segmentation.git)
+
+### 2. HR Attrition Analysis Dashboard
 
 **Tools:** Microsoft Excel
 
-* Analyzed 1,470 employee records to identify attrition patterns across job roles, age groups, salary bands, and tenure.
-* Built an interactive dashboard with 6 KPIs and 6 dynamic visualizations.
-* Explored factors associated with employee attrition.
+Analyzed 1,470 employee records to identify attrition patterns across departments, job roles, age groups, and salary bands. Created an interactive Excel dashboard with key HR metrics.
 
-### 3. Retail Sales Analysis
+🔗 [View Project](https://github.com/PriyaShrivastava25/employee-attrition-analysis.git)
 
-**Tools:** MySQL
+### 3. Customer Shopping Behavior Analysis
 
-* Analyzed retail transaction data to explore sales trends, customer behavior, and product categories.
-* Used SQL concepts such as CTEs, joins, and window functions for analysis.
+**Tools:** Python, MySQL, Power BI
+
+Analyzed 3,900 customer purchase records to explore spending patterns, product preferences, and customer segments. Developed an interactive Power BI dashboard to visualize key business metrics.
+
+🔗 [View Project](https://github.com/PriyaShrivastava25/customer_trends_analysis.git)
+
+---
+
+## 📁 More Projects & SQL Case Studies
+
+Apart from my featured projects, I have also worked on retail sales analysis and SQL case studies, including:
+
+* [Retail Sales Analysis](https://github.com/PriyaShrivastava25/Retail-Sales-Analysis.git) — MySQL
+* **Danny's Diner** — SQL
+* **Pizza Runner** — SQL
+* **SQL Murder Mystery** — SQL
+
+Explore my GitHub repositories for more projects and SQL practice.
+
 
